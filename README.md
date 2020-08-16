@@ -5,7 +5,7 @@ This is an implementation of the input with the usage of the command pattern. It
 # Structure
 
 ## Input Controller
-![alt-text](https://i.imgur.com/PZQl08T.png)
+![alt-text](https://i.imgur.com/PZQl08T.png)<br/>
 It is a scriptable object in which you can bind a key to a specific command.
 
 ## Input Command
