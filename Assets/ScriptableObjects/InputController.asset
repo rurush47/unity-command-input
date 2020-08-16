@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c1edfe88f36cd478988f1925c80804, type: 3}
+  m_Name: InputController
+  m_EditorClassIdentifier: 
+  _inputActions:
+  - Key: 323
+    InputCommand: {fileID: 11400000, guid: 673a988227ca7ce4a8de54ec1db04db3, type: 2}
+  - Key: 324
+    InputCommand: {fileID: 11400000, guid: 9524fb949d718df4b907beebcfe0d29f, type: 2}
+  - Key: 122
+    InputCommand: {fileID: 11400000, guid: b7eecfc448ebe5943ba5bc0a89998847, type: 2}
+  - Key: 120
+    InputCommand: {fileID: 11400000, guid: a518d27ae576ec0439d79a9673e11a76, type: 2}
